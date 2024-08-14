@@ -1,4 +1,4 @@
-# SidePro
+# SidePro Application Cloud CLI
 
 This repository releases contains the SidePro CLI.
 
